@@ -176,7 +176,7 @@ const Index = () => {
           <div className="bg-[#0d1f3c] text-white">
             <div className="max-w-6xl mx-auto px-4 py-5 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
               {[
-                { num: "1992", label: "Год основания" },
+                { num: "1937", label: "Год основания" },
                 { num: "4 700+", label: "Жителей под защитой" },
                 { num: "24/7", label: "Горячая линия" },
                 { num: "100%", label: "Соблюдение закона" },
